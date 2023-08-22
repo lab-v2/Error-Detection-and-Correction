@@ -472,6 +472,7 @@ def PosNegRuleLearn(all_charts):
         #CCall.extend(ncs)
         #print(f"class:{count}, NCs:{ncs}")
 
+# ignore this "generate_prf1_curve" function
 def generate_prf1_curve(all_charts):
     for count, chart in enumerate(all_charts):
         scores = []
