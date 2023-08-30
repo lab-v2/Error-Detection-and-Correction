@@ -20,3 +20,4 @@ python rule_out.py LRCN_F1_no_overlap_sequential no_overlap_sequential_10
 LRCN_F1_no_overlap_sequential is the results(labels) from neural network
 
 no_overlap_sequential_10 is the rule
+These two folders have more files than "python rule_out.py" needs, so just use the files that are needed.
