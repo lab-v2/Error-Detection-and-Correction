@@ -26,10 +26,11 @@ speed_rule.py   speed rule
 rule_out.py     improve the model performance through rule.
 
 
-
 If you only want to use the rule_out.py file, just run this command:
-
+```
 python rule_out.py LRCN_F1_no_overlap_sequential no_overlap_sequential_10
+```
+
 
 LRCN_F1_no_overlap_sequential is the results(labels) from neural network
 
