@@ -1,3 +1,11 @@
+
+# tout_data is about the speed rule which is not included in this code.
+# ruleForNegativeCorrection/ruleForNPCorrection/ruleForPNCorrection is 
+# a different combination for negtive rule and positive rule. 
+# for NP, negtive first, positive second, PN positive first, negetive second.
+# for ruleForNegativeCorrection, negative only.
+# In the paper, we use NPCorrection.
+
 import numpy as np
 import numpy
 import torch
