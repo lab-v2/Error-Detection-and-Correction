@@ -10,6 +10,9 @@ Paper: https://arxiv.org/abs/2308.14250
 4. [License](#5-license)
 5. [Contact](#6-contact)
 
+## Introduction
+This is the repo for paper **Rule-Based Error Detection and Correction to Operationalize Movement Trajectory Classification**
+
 ## Usage
 LabelMatrix-TimeDays-TrajectrotyMatrix.py   data process step 1
 
